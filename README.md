@@ -5,7 +5,7 @@
 Android App using Deep Learning to advice food considering an image source
 
 FoodAdvisor-installation.apk serves for direct installation on Android devices  
-You can find it under Releases -> Assets -> FoodAdvisor-installation.apk
+You can find it under [Releases -> Assets -> FoodAdvisor-installation.apk](https://github.com/Blankjr/FoodAdvisor/releases/tag/v0.1.0)
 
 Requirements:
 1. Working Custom Tensorflow Model in Python ✅
